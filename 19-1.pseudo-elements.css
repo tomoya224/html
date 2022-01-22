@@ -1,0 +1,19 @@
+h1::before {
+    content:"●";
+    color: red;
+}
+
+
+h1::after {
+    content: "●";
+    color: red;
+}
+p::first-letter {
+    font-size: 24px;
+    font-weight: bold;
+}
+p::first-line {
+    font-size: 24px;
+    font-weight: bold;
+    color: purple;
+}

@@ -1,0 +1,18 @@
+.decoration {
+    color: #ff0000;
+    /* 以下はRGBで色を指定していきます */
+    color: rgb(225,0,0);
+    font-weight: bold;
+    font-family: "游ゴシック体" ,"YuGothic" ,"游ゴシック体" ,"Yu Gothic" ;
+    font-style: italic;
+    line-height: 4.5;
+    letter-spacing: 1.5em;
+    
+
+    border: double 5px red;
+    border-top: solid 3px red;
+    border-bottom: dotted 3px blue;
+
+    
+
+}
